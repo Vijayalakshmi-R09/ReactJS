@@ -6,8 +6,19 @@ const student=[{studentId:1,studentName:'Remo',address:'no124,selo street,600096
 
 console.log("\n the student details after removing specified records : \n");
 
-const newstudent=student.map((e)=>{
-    console.log(`StudentName:${e.studentName}, City:${e.city}, StudentId:${e.studentId}, Adrress:${e.address}, Marks:${e.marks}`);
-    return e}).filter(student => (student.city != "Bangalore") || (student.city != "Chennai"));
+const newstudent=student.filter((e) => {
+        if (e.city == "Bangalore")
+        {
+            return false;
+        } 
+        else if (e.city == "Chennai")
+        {
+            return false;
+        }
+       else {
+        return e;
+    }}).map((e)=>{
+        console.log(`StudentName:${e.studentName}, City:${e.city}, StudentId:${e.studentId}, Adrress:${e.address}, Marks:${e.marks}`);
+        return e});
 
 
