@@ -1,0 +1,58 @@
+ [
+ {
+        "id":1,
+        "city":"New Delhi",
+        "max_temperature":81.9,
+        "min_temperature":74,
+        "temperature":78.2,
+        "precipitation":59,
+        "wind_speed":6.9,
+        "relative_humidity":81.3,
+        "conditions":"Rain,Overcast"
+    },
+    {
+        "id":2,
+        "city":"Mumbai",
+        "max_temperature":83.9,
+        "min_temperature":71,
+        "temperature":77.2,
+        "precipitation":63,
+        "wind_speed":3.9,
+        "relative_humidity":85.2,
+        "conditions":"Rain,Overcast"
+    },
+    {
+        "id":3,
+        "city":"Bangalore",
+        "max_temperature":89,
+        "min_temperature":74,
+        "temperature":81.1,
+        "precipitation":58.7,
+        "wind_speed":7.9,
+        "relative_humidity":59.7,
+        "conditions":"Rain, Partially cloudy"
+    },
+    {
+        "id":4,
+        "city":"Chennai",
+        "max_temperature":81.1,
+        "min_temperature":74.9,
+        "temperature":77.2,
+        "precipitation":79,
+        "wind_speed":3.7,
+        "relative_humidity":82.3,
+        "conditions":"Rain, Overcast"
+    },
+    {
+        "id":5,
+        "city":"Kolkata",
+        "max_temperature":81.9,
+        "min_temperature":72.9,
+        "temperature":76.4,
+        "precipitation":79,
+        "wind_speed":2.2,
+        "relative_humidity":83.2,
+        "conditions":"Partially cloudy"
+    }
+
+]
