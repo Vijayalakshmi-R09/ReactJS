@@ -1,0 +1,106 @@
+{
+  "records": [
+    {
+      "firstname": "Viji",
+      "lastname": "R",
+      "age": "21",
+      "gen": "Female",
+      "email": "viniravi.1997@gmail.com",
+      "phonenumber": "9874563210",
+      "institute": "Abc",
+      "department": "CSC",
+      "country": "UK",
+      "id": 1
+    },
+    {
+      "firstname": "Data",
+      "lastname": "R",
+      "age": "21",
+      "gen": "Male",
+      "email": "abc@gmail.com",
+      "phonenumber": "9874563210",
+      "institute": "Abc",
+      "department": "CSC",
+      "country": "Jamaica",
+      "id": 2
+    },
+    {
+      "firstname": "Elsa ",
+      "lastname": "Audre",
+      "age": "23",
+      "gen": "Female",
+      "email": "elle@belle.com",
+      "phonenumber": "8745213698",
+      "institute": "Aurs",
+      "department": "Music",
+      "country": "UK",
+      "id": 3
+    },
+    {
+      "firstname": "Salazar",
+      "lastname": "Slytherin",
+      "age": "50",
+      "gen": "Male",
+      "email": "shii@snake.com",
+      "phonenumber": "4561237890",
+      "institute": "Hogwarts",
+      "department": "Arts",
+      "country": "Cananda",
+      "id": 4
+    },
+    {
+      "firstname": "Ravenclaw",
+      "lastname": "Rugus",
+      "age": "24",
+      "gen": "Female",
+      "email": "red@gmail.com",
+      "phonenumber": "6547893210",
+      "institute": "Hogwarts",
+      "department": "MCA",
+      "country": "NZ",
+      "id": 5
+    },
+    {
+      "firstname": "Czech",
+      "lastname": "Pollard",
+      "age": "30",
+      "gen": "Male",
+      "email": "poll@i23.com",
+      "phonenumber": "4567891230",
+      "institute": "Abc",
+      "department": "Sports",
+      "country": "US",
+      "id": 6
+    },
+    {
+      "firstname": "Harry",
+      "lastname": "Finn",
+      "age": "26",
+      "gen": "Male",
+      "email": "fin@fiyal.com",
+      "phonenumber": "7452136890",
+      "institute": "Abc",
+      "department": "Maths",
+      "country": "Cananda",
+      "id": 7
+    },
+    {
+      "firstname": "Russel",
+      "lastname": "Dann",
+      "age": "21",
+      "gen": "Male",
+      "email": "rus@gmail.com",
+      "phonenumber": "9854712360",
+      "institute": "MGR",
+      "department": "Science",
+      "country": "NZ",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    }
+  ]
+}
