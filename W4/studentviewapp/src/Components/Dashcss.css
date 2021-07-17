@@ -1,0 +1,20 @@
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color:rgba(0, 0, 0, 0.781);
+}
+.al{
+    margin-left: 50px;
+}
+.container-md{
+    width: 18rem;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    
+}
+.card-body{
+    text-align: justify;
+   
+}

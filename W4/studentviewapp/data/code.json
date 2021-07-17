@@ -1,0 +1,24 @@
+{
+  "code": [
+    {
+      "country": "Cananda",
+      "uncode": "124",
+      "id": 1
+    },
+    {
+      "country": "US",
+      "uncode": "840",
+      "id": 2
+    },
+    {
+      "country": "NZ",
+      "uncode": "554",
+      "id": 3
+    },
+    {
+      "country": "NZ",
+      "uncode": "840",
+      "id": 4
+    }
+  ]
+}

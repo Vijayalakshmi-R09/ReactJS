@@ -1,0 +1,12 @@
+body{
+    background-image: url ("https://cdn.dribbble.com/users/24711/screenshots/1507479/learngit-teaser.gif");   
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+@media screen and (max-width:400px) {
+    h1{
+        color:black;
+    }
+}
