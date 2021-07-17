@@ -25,7 +25,7 @@ function App() {
     {id:1,menu:"/dashboard",desc:"Dashboard"},
     {id:2,menu:"/view",desc:"View"},
     {id:3,menu:"/edit",desc:"Edit"},
-    {id:4,menu:"/edit/edituser/:id",desc:"EditUser"},
+   // {id:4,menu:"/edit/edituser/:id",desc:"EditUser"},
   ];
   const isAuth=true;
  // const url="http://localhost:3000";
