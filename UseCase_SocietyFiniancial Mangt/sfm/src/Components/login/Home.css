@@ -3,3 +3,6 @@
     font-size: xx-large;
     color: white;
 }
+.card-header{
+    text-decoration-color: blue;
+}

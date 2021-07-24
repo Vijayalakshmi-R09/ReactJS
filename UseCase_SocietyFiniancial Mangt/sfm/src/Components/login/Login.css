@@ -32,6 +32,7 @@
     padding: 1.5%;
     border: none;
     cursor: pointer;
+    background-color: blue;
 }
 .login-form-1 .btnSubmit{
     font-weight: 600;

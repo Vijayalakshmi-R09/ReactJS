@@ -1,5 +1,5 @@
 import React from 'react'
-import Login from './Login'
+import Login from './AdminLogin'
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Dashboard from '../admin/Dashboard/Dashboard';
@@ -19,9 +19,10 @@ export default function Routernav() {
       </Navbar> 
     
         <Switch>
-        <Route path="/home" exact component={Home} ></Route>
+        
           <Route path="/login" exact component={Login} ></Route> 
           <Route path="/dashboard" exact component={Dashboard}></Route>
+          <Route path="/home" exact="true" component={Home} ></Route>
         </Switch>
       
     </div>

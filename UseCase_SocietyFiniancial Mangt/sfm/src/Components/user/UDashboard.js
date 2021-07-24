@@ -1,13 +1,12 @@
 import React from 'react'
 import './Dashboard.css'
-export default function Dashboard() {
+export default function UDashboard() {
     return (
         <div>
-            
-  <body><div class="area"></div><nav class="main-menu">
+             <body><div class="area"></div><nav class="main-menu">
             <ul>
                 <li>
-                    <a href="#">
+                    <a href="http://justinfarrow.com">
                         <i class="fa fa-home fa-2x"></i>
                         <span class="nav-text">
                             Dashboard
@@ -16,10 +15,10 @@ export default function Dashboard() {
                   
                 </li>
                 <li class="has-subnav">
-                    <a href="/admin/onboarding">
+                    <a href="#">
                         <i class="fa fa-laptop fa-2x"></i>
                         <span class="nav-text">
-                            OnBoarding
+                            User Profile
                         </span>
                     </a>
                     
@@ -28,7 +27,7 @@ export default function Dashboard() {
                     <a href="#">
                        <i class="fa fa-list fa-2x"></i>
                         <span class="nav-text">
-                            Owner Details
+                            Events
                         </span>
                     </a>
                     
@@ -37,7 +36,7 @@ export default function Dashboard() {
                     <a href="#">
                        <i class="fa fa-folder-open fa-2x"></i>
                         <span class="nav-text">
-                            Vendor Details
+                            Complaint Request
                         </span>
                     </a>
                    
@@ -46,7 +45,7 @@ export default function Dashboard() {
                     <a href="#">
                         <i class="fa fa-bar-chart-o fa-2x"></i>
                         <span class="nav-text">
-                            Complaint Request
+                            Complaint Status
                         </span>
                     </a>
                 </li>
@@ -54,7 +53,7 @@ export default function Dashboard() {
                     <a href="#">
                         <i class="fa fa-font fa-2x"></i>
                         <span class="nav-text">
-                           Complaint Report
+                           Payment Details
                         </span>
                     </a>
                 </li>
@@ -70,7 +69,7 @@ export default function Dashboard() {
                    <a href="#">
                         <i class="fa fa-map-marker fa-2x"></i>
                         <span class="nav-text">
-                            Event History
+                            Make Payment
                         </span>
                     </a>
                 </li>
@@ -93,4 +92,3 @@ export default function Dashboard() {
         </div>
     )
 }
-
